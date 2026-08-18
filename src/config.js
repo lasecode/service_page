@@ -9,7 +9,7 @@ export const CONFIG = {
   email: "laseolufemi48@gmail.com",
 
   // WhatsApp: include country code, no + or spaces e.g. 2348012345678
-  whatsapp: "2348012345678", // ← UPDATE THIS with your real number
+  whatsapp: "+2348061721017", // ← UPDATE THIS with your real number
 
   // Pre-filled WhatsApp message
   whatsappMessage: "Hi Lase, I found your portfolio and I'm interested in getting a website for my business.",
